@@ -8,3 +8,4 @@ urlpatterns = [
     # registering all the assistant application urls
     path('', include('assistant.urls')),
 ]
+
